@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dawidkubicki/dawidkubicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Founder of Pluscode Software House ✊
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Working on Crypto AI Trading Bot;
+- ⛷ Learning skiing;
+
+##### BIO
+
+- 🏢 I'm currently working at **Pluscode**
+- ⚙️ I use daily: `.py`, `.swift` 
+- 🌍 I'm mostly active within the **Deel Learning Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **python**, **deeplearning**, **crypto**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter

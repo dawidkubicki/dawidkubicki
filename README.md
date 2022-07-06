@@ -4,8 +4,7 @@
 
 ##### NOW
 
-- ✨ Working on Crypto AI Trading Bot;
-- ⛷ Learning skiing;
+- ✨ Working on Crypto Analyzing Web App;
 
 ##### BIO
 

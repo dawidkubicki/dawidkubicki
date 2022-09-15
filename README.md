@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Founder of Pluscode Software House ✊
+#### I'm a Founder of Pluscode Dev Shop ✊
 
 ##### NOW
 
